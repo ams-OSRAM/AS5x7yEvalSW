@@ -9,12 +9,12 @@
 2. select the correct com port.
 3. For SD4Yv, click connect.
 
-![HW setup](img/Image01.png "Title Text"){width=75%}
+![HW setup](img/Image01.PNG "HW setup"){width=75%}
 
 4. Move to Devive tab, depend on the selected device on the HW tab, you may have two "for dual die devices".
 5. Select the desired configurations as shown in the image below
 
-![Device Tab](img/Image02.png "Title Text"){width=75%}
+![Device Tab](img/Image02.PNG "Device Tab"){width=75%}
 
 6. To know morw about the paramters and progamming steps, please read the [datasheet](https://ams-osram.com/search?productSearch=true&filter_products=position-sensors)
 
