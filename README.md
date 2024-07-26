@@ -16,7 +16,7 @@
 
 ![Device Tab](img/Image02.PNG "Device Tab"){width=75%}
 
-6. To know morw about the paramters and progamming steps, please read the [datasheet](https://ams-osram.com/search?productSearch=true&filter_products=position-sensors)
+6. To know more about the paramters and progamming steps, please read the [datasheet](https://ams-osram.com/search?productSearch=true&filter_products=position-sensors)
 
 # Supported devices
 1. [AS5070](https://ams-osram.com/products/sensors/position-sensors/ams-as5070-high-resolution-position-sensor)
@@ -24,11 +24,11 @@
 3. [AS5171](https://ams-osram.com/products/sensors/position-sensors/ams-as5171-high-resolution-position-sensor)
 
 # Supported programmers
-1. [UART Board](https://ams-osram.com/products/boards-kits-accessories/boards/ams-as5xxx-evm-pb-usb-evaluation-board)
-2. [SD4Yv01](https://look.ams-osram.com/m/8a485bb9cdb32bd7/original/AS5xxx_SD4Y_UG000435_1-00.pdf)
+1. [UART Board](https://ams-osram.com/products/boards-kits-accessories/boards/ams-as5xxx-evm-pb-usb-evaluation-board) >> [User Manual](https://look.ams-osram.com/m/275da984b854ab0a/original/AS5xxx_UART_UG000370_1-00.pdf)
+2. [SD4Yv01](https://ams-osram.com/products/boards-kits-accessories/boards/ams-as5xxx-evm-pb-usb-evaluation-board) >> [User Manual](https://look.ams-osram.com/m/8a485bb9cdb32bd7/original/AS5xxx_SD4Y_UG000435_1-00.pdf)
 3. SD4Y02
 
 # To avoid errors 
-1. make sure you followed the installation steps
+1. Make sure you followed the installation steps
 2. Check the programmer link and go to downloads section for user guide.
 3. Once you have the user manual, check the wiring, supply voltages and jumper connection if needed.
