@@ -1,4 +1,4 @@
-# Installtion.
+# Installation.
 1. Download and install NI labVIEW runtime 2020 32bit [here](https://www.ni.com/en/support/downloads/software-products/download.labview-runtime.html#show-offline-installers).
 2. Download and install NI visa runtime 2020 [here](https://www.ni.com/en/support/downloads/drivers/download.ni-visa.html#show-offline-installers). You don't need to install any addtional items leave everything as default.
 3. Download and install the FTDI driver from here [here](https://ftdichip.com/drivers/vcp-drivers/)
@@ -7,7 +7,7 @@
 # How to use
 1. Start with Hardware setup, select the used programmer "UART Board, SD4Yv01 or SD4Yv02"
 2. select the correct com port.
-3. For SD4Yv, click connect.
+3. For SD4Yv01/v02, click connect.
 
 ![HW setup](img/Image01.PNG "HW setup"){width=75%}
 
